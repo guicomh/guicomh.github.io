@@ -1,3 +1,4 @@
+/* Reset de estilos para garantir uma base consistente em diferentes navegadores */
 body, h1, h2, p, ul, li, figure, figcaption {
     margin: 0;
     padding: 0;
@@ -36,45 +37,13 @@ header {
     padding: 20px;
 }
 
-
 section {
     max-width: 1000px;
-    margin:  20px auto;
+    margin: 20px auto;
     padding: 20px;
 }
 
-.meu-botao {
-    display: inline-block;
-    padding: 10px 20px;
-    font-size: 16px;
-    font-family: Arial, sans-serif;
-    text-align: center;
-    text-decoration: none;
-    cursor: pointer;
-    background-color: #3498db;
-    color: #fff;
-    border: 1px solid #3498db;
-    border-radius: 4px;
-    transition: background-color 0.3s;
-}
-
-/* Efeito de hover no botão */
-.meu-botao:hover {
-    background-color: #2980b9;
-}
-
-footer {
-    background-color: #1b1b1b;
-    color: #fff;
-    text-align: center;
-    padding: 20px;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-}
-
-
-/* dispositivos móveis (largura de tela até 767 pixels) */
+/* Responsividade para dispositivos móveis (largura de tela até 767 pixels) */
 @media only screen and (max-width: 767px) {
     header {
         height: auto;
@@ -101,4 +70,14 @@ footer {
         font-size: 1em;
         line-height: 1.4;
     }
+}
+
+footer {
+    background-color: #1b1b1b;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
