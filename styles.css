@@ -1,4 +1,3 @@
-/* Estilos comuns para todos os dispositivos */
 body, h1, h2, p, ul, li, figure, figcaption {
     margin: 0;
     padding: 0;
@@ -47,7 +46,7 @@ footer {
     width: 100%;
 }
 
-/* Estilos específicos para dispositivos móveis (largura de tela até 767 pixels) */
+/* dispositivos móveis (largura de tela até 767 pixels) */
 @media only screen and (max-width: 767px) {
     header {
         height: auto;
