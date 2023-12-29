@@ -20,28 +20,24 @@ header {
 }
 
 #redes-sociais {
-    text-align: left; /* Adicionado para alinhar os ícones à esquerda */
-    margin-left: 10px; /* Adicionado espaço à esquerda (ajuste conforme necessário) */
+    text-align: left; /* Centraliza os ícones */
 }
 
 #redes-sociais a.insta-icon,
 #redes-sociais a.linkedin-icon {
     display: inline-block;
-    margin: 0 540px;
-    background-color: #333; 
-    border-radius: 50%;
+    margin: 0 10px;
+    width: 30px;
+    height: 30px;
+    background-size: cover;
 }
 
 #redes-sociais a.insta-icon {
-    width: 50px;
-    height: 50px;
-    background: url("instagram.png");
+    background-image: url("instagram.png");
 }
 
 #redes-sociais a.linkedin-icon {
-    width: 50px;
-    height: 50px;
-    background: url("link.png");
+    background-image: url("link.png");
 }
 
 .header-background {
@@ -85,12 +81,13 @@ footer {
     }
 
     .header-background {
-        background-image: url('head.png');
-        position: relative;
-        width: 100%;
+        background-size: cover;
         height: auto;
-        background-size: cover; /* Adicionado para garantir que a imagem cubra completamente o contêiner */
-        z-index: 0;
+    }
+
+    #redes-sociais a.insta-icon,
+    #redes-sociais a.linkedin-icon {
+        margin: 10px; /* Aumenta a margem entre os ícones */
     }
 
     .header-content {
@@ -108,8 +105,8 @@ footer {
     }
 
     footer {
-        position: fixed;
-        bottom: 0;
+        position: relative;
+        bottom: auto;
         width: 100%;
     }
 }
