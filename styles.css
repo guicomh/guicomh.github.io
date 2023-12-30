@@ -74,13 +74,13 @@ footer {
     width: 100%;
 }
 
-/* Responsividade para dispositivos móveis (largura de tela até 767 pixels) */
 @media only screen and (max-width: 767px) {
     header {
         height: auto;
     }
 
     .header-background {
+        background-image: url('headcelular.png') !important;
         background-size: cover;
         height: auto;
     }
