@@ -1,4 +1,4 @@
-/* Reset de estilos para garantir uma base consistente em diferentes navegadores */
+
 body, h1, h2, p, ul, li, figure, figcaption {
     margin: 0;
     padding: 0;
@@ -20,13 +20,13 @@ header {
 }
 
 #redes-sociais {
-    text-align: left; /* Centraliza os ícones */
+    text-align: left; 
 }
 
 #redes-sociais a.insta-icon,
 #redes-sociais a.linkedin-icon {
     display: inline-block;
-    margin: 0 10px;
+    margin: 0 20px;
     width: 30px;
     height: 30px;
     background-size: cover;
@@ -82,7 +82,7 @@ footer {
 
     #redes-sociais a.insta-icon,
     #redes-sociais a.linkedin-icon {
-        margin: 10px; /* Aumenta a margem entre os ícones */
+        margin: 10px; 
     }
 
 
