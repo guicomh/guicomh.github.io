@@ -16,10 +16,6 @@ Meu nome é Guilherme e sou Engenheiro de SOFTWARE. Este site é o meu espaço o
 - CSS
 - JavaScript
 
-## Como Contribuir
-
-Se você encontrar problemas ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma "issue" ou enviar um "pull request". Sua contribuição é bem-vinda!
-
 ## Contato
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/guilherme-vasconcellos-176736270/)
