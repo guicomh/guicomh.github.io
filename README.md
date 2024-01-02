@@ -13,6 +13,9 @@ Meu nome é Guilherme e sou Engenheiro de SOFTWARE. Este site é o meu espaço o
 ## Tecnologias Utilizadas
 
 - [Lista de tecnologias utilizadas no desenvolvimento do seu site]
+- HTML
+- CSS
+- JavaScript
 
 ## Como Contribuir
 
@@ -21,6 +24,6 @@ Se você encontrar problemas ou tiver sugestões de melhorias, sinta-se à vonta
 ## Contato
 
 - LinkedIn: [Seu Perfil do LinkedIn](https://www.linkedin.com/in/guilherme-vasconcellos-176736270/)
-- E-mail: [Seu E-mail]
+- E-mail: [eliseuvasconcellos@gmail.com]
 
 
