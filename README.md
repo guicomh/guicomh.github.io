@@ -4,7 +4,7 @@ Bem-vindo ao repositório do código-fonte do meu site pessoal! Este é o lugar 
 
 ## Sobre Mim
 
-Meu nome é Guilherme e sou [sua profissão ou área de atuação]. Estou apaixonado(a) por [seus interesses ou área de especialização]. Este site é o meu espaço online para compartilhar conhecimento, projetos e experiências.
+Meu nome é Guilherme e sou Engenheiro de SOFTWARE. Este site é o meu espaço online para compartilhar conhecimento, projetos e experiências.
 
 ## Visite Meu Site
 
@@ -20,8 +20,7 @@ Se você encontrar problemas ou tiver sugestões de melhorias, sinta-se à vonta
 
 ## Contato
 
-- LinkedIn: [Seu Perfil do LinkedIn](link_para_seu_perfil)
-- Twitter: [@SeuTwitter](link_para_seu_twitter)
+- LinkedIn: [Seu Perfil do LinkedIn](https://www.linkedin.com/in/guilherme-vasconcellos-176736270/)
 - E-mail: [Seu E-mail]
 
 
