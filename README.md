@@ -1,14 +1,14 @@
-# [Nome do Seu Site]
+# MEU SITE
 
 Bem-vindo ao repositório do código-fonte do meu site pessoal! Este é o lugar onde compartilho informações sobre mim, meus projetos e minhas experiências.
 
 ## Sobre Mim
 
-Meu nome é [Seu Nome] e sou [sua profissão ou área de atuação]. Estou apaixonado(a) por [seus interesses ou área de especialização]. Este site é o meu espaço online para compartilhar conhecimento, projetos e experiências.
+Meu nome é Guilherme e sou [sua profissão ou área de atuação]. Estou apaixonado(a) por [seus interesses ou área de especialização]. Este site é o meu espaço online para compartilhar conhecimento, projetos e experiências.
 
 ## Visite Meu Site
 
-🌐 [Link para o seu site](guicomh.github.io)
+🌐 [Link para o seu site](https://guicomh.github.io/)
 
 ## Tecnologias Utilizadas
 
