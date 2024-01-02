@@ -8,7 +8,7 @@ Meu nome é [Seu Nome] e sou [sua profissão ou área de atuação]. Estou apaix
 
 ## Visite Meu Site
 
-🌐 [Link para o seu site](https://seu-site.com)
+🌐 [Link para o seu site](guicomh.github.io)
 
 ## Tecnologias Utilizadas
 
@@ -24,10 +24,4 @@ Se você encontrar problemas ou tiver sugestões de melhorias, sinta-se à vonta
 - Twitter: [@SeuTwitter](link_para_seu_twitter)
 - E-mail: [Seu E-mail]
 
-## Captura de Tela
 
-![Captura de tela do seu site](link_para_screenshot)
-
----
-
-**Nota:** Este README é apenas um exemplo básico. Sinta-se à vontade para personalizar conforme necessário, adicionando mais detalhes sobre seus projetos, tecnologias utilizadas, e outros pontos que você julgar relevantes.
