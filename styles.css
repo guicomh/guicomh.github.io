@@ -11,7 +11,7 @@ header {
     color:#000;
     padding: 20px;
     text-align: center;
-    border: 5px solid #000000; /* Cor e largura da borda */
+    border: 5px solid #000000; 
 }
 
 
@@ -42,31 +42,41 @@ header {
     text-align: center;
 }
 
+.jaguanum-projeto, .copiar-site {
+display: inline-block;
+    width: 300px;
+    height: 300px;
+    background-size: cover;
+    margin: 0 10px;
+    text-align: center;
+}
+
+.jaguanum-projeto {
+    background-image: url(Projetos/jaguanum.png);
+    text-align: left;
+}
+
+.copiar-site {
+    background-image: url(Projetos/perl.png);
+    text-align: left;
+}
+
+.texto-intro {
+    line-height: 1.5; 
+    color: #000; 
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+
 section {
-    max-width: 500px;
+    max-width: 800px;
     margin: 20px auto;
     padding: 20px;
     text-align: center;
-    border: 5px solid #000000; /* Cor e largura da borda */
+    border: 5px solid #000000; 
 }
-
-button {
-    width: 130px;
-    height: 40px;
-    font-family: 'Lato', sans-serif;
-    font-weight: 500;
-    background: #ffffff;
-    cursor: pointer;
-    transition: all 0.5s ease;
-    outline: none;
-    border: none;
-    border: 1px solid #000000; 
-}
-
-button:hover {
-    background: #41ff4b; 
-}
-
+    
 footer {
     background-color: #333;
     color: #fff;
