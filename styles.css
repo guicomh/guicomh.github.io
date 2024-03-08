@@ -3,6 +3,7 @@ body {
     padding: 0;
     font-family: "Oswald", sans-serif;
     color: #ffffff;
+    background-color: #000;
 }
 
 header {
@@ -28,8 +29,34 @@ section {
 
 .linguagens, .projetos {
     display: inline-block;
-    text-align: center; /* Adicionado para centralizar o conteúdo */
+    text-align: center; 
 }
+
+.projetos a {
+    display: inline-block; 
+    width: 100px; 
+    height: 100px; 
+    margin: 10px; 
+    background-size: cover;
+}
+
+.jaguanum {
+    background-image: url('');
+}
+
+.gstore {
+    background-image: url('');
+}
+
+.tec-enfermagem {
+    background-image: url('');
+}
+
+.copiar-site {
+    background-image: url('');
+}
+
+
 
 footer {
     background-color: #000000;
