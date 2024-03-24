@@ -85,7 +85,7 @@ footer {
     width: 100px;
     height: 100px;
     background-size: cover;
-    margin: 0 20px;
+    margin: 0 10px;
     text-align: center;
     font-size: 20px;
 }
@@ -103,4 +103,58 @@ footer {
 .linkedin {
     background-image: url(Img/linkedin.gif);
     text-align: center;
+}
+
+
+@media screen and (max-width: 768px) {
+    .nome {
+        font-size: 30px;
+    }
+
+    .foto {
+        width: 150px; 
+    }
+
+    .introdução {
+        font-size: 16px;
+    }
+
+    .projetos-a a {
+        width: 80px;
+        height: 80px;
+        font-size: 16px;
+    }
+
+    .rede-socias a {
+        width: 80px;
+        height: 80px;
+        font-size: 16px;
+    }
+}
+
+
+@media screen and (max-width: 480px) {
+    .nome {
+        font-size: 25px;
+    }
+
+    .foto {
+        width: 120px; 
+    }
+
+    .introdução {
+        font-size: 14px;
+    }
+
+    .projetos-a a {
+        width: 60px;
+        height: 60px;
+        font-size: 14px;
+    }
+
+    .rede-socias a {
+        width: 60px;
+        height: 60px;
+        font-size: 14px;
+    }
 }
