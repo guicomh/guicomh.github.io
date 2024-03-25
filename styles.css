@@ -36,7 +36,6 @@ section {
     max-width: 1060px;
     margin: 10px auto;
     padding: 20px;
-    background-image: url(Img/fundo.gif);
 }
 
 .introdução {
@@ -48,30 +47,29 @@ section {
     text-align-last: left;
 }
 
-.projetos-a  a {
+.projetos-a a {
     display: inline-block;
     width: 100px;
     height: 100px;
     background-size: cover;
-    margin: 0 20px;
+    margin: 0 10px;
     text-align: center;
     font-size: 20px;
+    position: relative;
 }
 
 .porta-scanner {
     background-image: url(Img/porta\ scanner.png);
-    text-align: center;
 }
 
 .tecnico-enfermagem {
     background-image: url(Img/tec\ enfermagem.png);
-    text-align: center;
 }
 
 .criador-lista {
     background-image: url(Img/criador\ lista.png);
-    text-align: center;
 }
+
 
 footer {
     color: rgb(0, 0, 0);
@@ -106,55 +104,3 @@ footer {
 }
 
 
-@media screen and (max-width: 768px) {
-    .nome {
-        font-size: 30px;
-    }
-
-    .foto {
-        width: 150px; 
-    }
-
-    .introdução {
-        font-size: 16px;
-    }
-
-    .projetos-a a {
-        width: 80px;
-        height: 80px;
-        font-size: 16px;
-    }
-
-    .rede-socias a {
-        width: 80px;
-        height: 80px;
-        font-size: 16px;
-    }
-}
-
-
-@media screen and (max-width: 480px) {
-    .nome {
-        font-size: 25px;
-    }
-
-    .foto {
-        width: 120px; 
-    }
-
-    .introdução {
-        font-size: 14px;
-    }
-
-    .projetos-a a {
-        width: 60px;
-        height: 60px;
-        font-size: 14px;
-    }
-
-    .rede-socias a {
-        width: 60px;
-        height: 60px;
-        font-size: 14px;
-    }
-}
